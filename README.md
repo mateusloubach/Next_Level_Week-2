@@ -6,7 +6,9 @@ Proffy é uma aplicação web cujo objetivo é conectar pessoas que querem dar a
 :construction: :rocket: Proffy Application In progress.. :construction:
 </h4>
 
-<img align='right' width=320 src="">
+<h4 align="center"> 
+<img align="center" src = "https://github.com/mateusloubach/Next_Level_Week-2/blob/master/Proffy_Exemplo.jpg" alt = "Proffy" />
+</h4>
 
  ## Descrição
  
