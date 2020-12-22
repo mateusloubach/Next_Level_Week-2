@@ -2,12 +2,11 @@
 <img src = "https://github.com/rocketseat-education/nlw-02-omnistack/blob/master/.github/logo.svg" alt="ProffyLogo" />
 </h4>
 
-
-Proffy é uma aplicação web cujo objetivo é conectar pessoas que querem dar aulas particulares à pessoas que precisam delas.
-
 <h4 align="center"> 
 :construction: :rocket: Proffy Application In progress.. :construction:
 </h4>
+
+Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem professores online.
 
 <h4 align="center"> 
 <img src = "https://github.com/mateusloubach/Next_Level_Week-2/blob/master/Proffy_Exemplo.jpg" alt = "Proffy" />
